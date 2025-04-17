@@ -43,7 +43,7 @@ I'm always open to interesting ideas, contributions, or even just nerding out ov
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/kollimarla-naga-sai-satya-teja
-- Portfolio: https://knagasaisatyateja.github.io/portfolio/✨
+- Portfolio: https://knagasaisatyateja.github.io/portfolio/
 
 ---
 
